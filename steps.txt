@@ -1,3 +1,9 @@
+If you are cloning or pulling for your purposes kindly change the conf\nginx.conf file
+
+hls_path "D:/Paresh/Python/Ngnix/srv/hls/" >> "xyx/gghj"
+root "D:/Paresh/Python/Ngnix/srv" >> "change/this"
+
+
 Go to OBS:
 select>> Source>> Window Capture
 
