@@ -1,0 +1,22 @@
+Go to OBS:
+select>> Source>> Window Capture
+
+in controls >> start streaming>> settings >> stream 
+
+service:custom
+server:    "rtmp://localhost/live"
+stream key:"stream1" 
+
+
+
+
+Go to VLC:
+Media>> Open Network Stream >> Network >> "rtmp://localhost/live/stream1"
+
+
+or to view in bowser : "http://localhost/viewer.html"
+
+
+
+
+

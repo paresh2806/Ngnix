@@ -1,0 +1,139 @@
+2024/02/22 14:26:04 [emerg] 5584#4120: CreateFile() "C:\Users\Admin\Downloads\nginx 1.7.11.3 Gryphon (1)/conf/nginx.conf" failed (2: The system cannot find the file specified)
+2024/02/22 14:42:13 [notice] 18036#12988: signal process started (quit)
+2024/02/22 14:42:13 [error] 18036#12988: CreateFile() "D:\Paresh\Python\Ngnix/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2024/02/22 14:42:13 [emerg] 4132#6912: CreateDirectory() "/nginx/srv/hls/" failed (3: The system cannot find the path specified)
+2024/02/22 14:42:55 [notice] 17792#9880: signal process started (quit)
+2024/02/22 14:42:55 [error] 17792#9880: CreateFile() "D:\Paresh\Python\Ngnix/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2024/02/22 14:42:55 [emerg] 13252#12384: CreateDirectory() "/nginx/srv/hls/" failed (3: The system cannot find the path specified)
+2024/02/22 14:44:46 [notice] 19820#19824: signal process started (quit)
+2024/02/22 14:44:46 [error] 19820#19824: CreateFile() "D:\Paresh\Python\Ngnix/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2024/02/22 14:44:46 [notice] 19904#19908: sockinit() attempting to access sockapi
+2024/02/22 14:44:46 [notice] 19904#19908: Access to sockapi succeded!
+2024/02/22 14:44:46 [notice] 19904#19908: using sockapi from "4;"
+2024/02/22 14:45:00 [error] 19904#20048: *1 CreateFile() "D:\Paresh\Python\Ngnix/html/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: localhost, request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/02/22 14:46:52 [notice] 18984#12000: signal process started (quit)
+2024/02/22 14:46:59 [notice] 19600#1860: signal process started (quit)
+2024/02/22 14:46:59 [error] 19600#1860: CreateFile() "D:\Paresh\Python\Ngnix/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2024/02/22 14:46:59 [notice] 19340#19480: sockinit() attempting to access sockapi
+2024/02/22 14:46:59 [notice] 19340#19480: Access to sockapi succeded!
+2024/02/22 14:46:59 [notice] 19340#19480: using sockapi from "4;"
+2024/02/22 14:48:12 [notice] 21004#20956: signal process started (quit)
+2024/02/22 14:48:16 [notice] 18620#21028: signal process started (quit)
+2024/02/22 14:48:16 [error] 18620#21028: CreateFile() "D:\Paresh\Python\Ngnix/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2024/02/22 14:48:16 [emerg] 18224#17824: CreateDirectory() "/nginx/srv/hls/" failed (3: The system cannot find the path specified)
+2024/02/22 14:48:39 [notice] 20584#20568: signal process started (quit)
+2024/02/22 14:48:39 [error] 20584#20568: CreateFile() "D:\Paresh\Python\Ngnix/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2024/02/22 14:48:39 [emerg] 1744#20712: CreateDirectory() "/nginx/srv/hls/" failed (3: The system cannot find the path specified)
+2024/02/22 14:48:46 [notice] 20836#20752: signal process started (quit)
+2024/02/22 14:48:46 [error] 20836#20752: CreateFile() "D:\Paresh\Python\Ngnix/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2024/02/22 14:48:50 [notice] 21128#21028: signal process started (quit)
+2024/02/22 14:48:50 [error] 21128#21028: CreateFile() "D:\Paresh\Python\Ngnix/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2024/02/22 14:48:50 [emerg] 20376#20936: CreateDirectory() "/nginx/srv/hls/" failed (3: The system cannot find the path specified)
+2024/02/22 14:49:09 [notice] 18112#1760: signal process started (quit)
+2024/02/22 14:49:09 [error] 18112#1760: CreateFile() "D:\Paresh\Python\Ngnix/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2024/02/22 14:49:09 [emerg] 3064#5668: CreateDirectory() "/nginx/srv/hls/" failed (3: The system cannot find the path specified)
+2024/02/22 14:50:38 [notice] 15672#348: signal process started (quit)
+2024/02/22 14:50:38 [error] 15672#348: CreateFile() "D:\Paresh\Python\Ngnix/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2024/02/22 14:50:38 [emerg] 12548#15368: CreateDirectory() "/nginx/srv/hls/" failed (3: The system cannot find the path specified)
+2024/02/22 14:50:43 [notice] 3456#14844: signal process started (quit)
+2024/02/22 14:50:43 [error] 3456#14844: CreateFile() "D:\Paresh\Python\Ngnix/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2024/02/22 14:50:43 [emerg] 12840#10968: CreateDirectory() "/nginx/srv/hls/" failed (3: The system cannot find the path specified)
+2024/02/22 14:53:39 [notice] 14176#5016: signal process started (quit)
+2024/02/22 14:53:39 [error] 14176#5016: CreateFile() "D:\Paresh\Python\Ngnix/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2024/02/22 14:53:39 [notice] 19488#6912: sockinit() attempting to access sockapi
+2024/02/22 14:53:39 [notice] 19488#6912: Access to sockapi succeded!
+2024/02/22 14:53:39 [notice] 19488#6912: using sockapi from "4;"
+2024/02/22 14:53:39 [notice] 5820#15780: sockinit() attempting to access sockapi
+2024/02/22 14:53:39 [notice] 5820#15780: Access to sockapi succeded!
+2024/02/22 14:53:39 [notice] 5820#15780: using sockapi from "4;"
+2024/02/22 14:54:52 [notice] 12772#15776: signal process started (quit)
+2024/02/22 14:55:02 [notice] 10224#9308: signal process started (quit)
+2024/02/22 14:55:02 [error] 10224#9308: CreateFile() "D:\Paresh\Python\Ngnix/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2024/02/22 14:55:02 [notice] 17060#8668: sockinit() attempting to access sockapi
+2024/02/22 14:55:02 [notice] 17060#8668: Access to sockapi succeded!
+2024/02/22 14:55:02 [notice] 17060#8668: using sockapi from "4;"
+2024/02/22 14:55:02 [notice] 14848#11464: sockinit() attempting to access sockapi
+2024/02/22 14:55:02 [notice] 14848#11464: Access to sockapi succeded!
+2024/02/22 14:55:02 [notice] 14848#11464: using sockapi from "4;"
+2024/02/22 15:12:38 [notice] 2572#4020: signal process started (quit)
+2024/02/22 15:12:59 [notice] 14356#2976: signal process started (quit)
+2024/02/22 15:13:10 [notice] 7396#6768: signal process started (quit)
+2024/02/22 15:13:26 [notice] 8160#544: signal process started (quit)
+2024/02/22 15:13:26 [error] 8160#544: CreateFile() "D:\Paresh\Python\Ngnix/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2024/02/22 15:13:26 [emerg] 7428#12760: CreateDirectory() "/nginx/srv/hls/" failed (3: The system cannot find the path specified)
+2024/02/22 15:13:40 [notice] 7540#13172: signal process started (quit)
+2024/02/22 15:13:40 [error] 7540#13172: CreateFile() "D:\Paresh\Python\Ngnix/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2024/02/22 15:13:40 [emerg] 1928#12600: CreateDirectory() "/nginx/srv/hls/" failed (3: The system cannot find the path specified)
+2024/02/22 15:14:14 [notice] 12992#10796: signal process started (quit)
+2024/02/22 15:14:14 [error] 12992#10796: CreateFile() "D:\Paresh\Python\Ngnix/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2024/02/22 15:14:14 [emerg] 680#8388: CreateDirectory() "/nginx/srv/hls/" failed (3: The system cannot find the path specified)
+2024/02/22 15:14:21 [notice] 7008#8768: signal process started (quit)
+2024/02/22 15:14:21 [error] 7008#8768: CreateFile() "D:\Paresh\Python\Ngnix/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2024/02/22 15:14:21 [emerg] 6668#8476: CreateDirectory() "/nginx/srv/hls/" failed (3: The system cannot find the path specified)
+2024/02/22 15:14:31 [notice] 2832#13048: signal process started (quit)
+2024/02/22 15:14:31 [error] 2832#13048: CreateFile() "D:\Paresh\Python\Ngnix/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2024/02/22 15:15:00 [notice] 20648#15988: signal process started (quit)
+2024/02/22 15:15:00 [error] 20648#15988: CreateFile() "D:\Paresh\Python\Ngnix/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2024/02/22 15:15:00 [notice] 9272#20320: sockinit() attempting to access sockapi
+2024/02/22 15:15:00 [notice] 9272#20320: Access to sockapi succeded!
+2024/02/22 15:15:00 [notice] 9272#20320: using sockapi from "4;"
+2024/02/22 15:15:00 [notice] 16756#7556: sockinit() attempting to access sockapi
+2024/02/22 15:15:00 [notice] 16756#7556: Access to sockapi succeded!
+2024/02/22 15:15:00 [notice] 16756#7556: using sockapi from "4;"
+2024/02/22 15:15:08 [notice] 7992#15464: signal process started (quit)
+2024/02/22 15:16:46 [notice] 20900#8648: signal process started (quit)
+2024/02/22 15:16:46 [error] 20900#8648: CreateFile() "D:\Paresh\Python\Ngnix/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2024/02/22 15:16:46 [notice] 17156#11968: sockinit() attempting to access sockapi
+2024/02/22 15:16:46 [notice] 17156#11968: Access to sockapi succeded!
+2024/02/22 15:16:46 [notice] 17156#11968: using sockapi from "4;"
+2024/02/22 15:16:46 [notice] 13600#20732: sockinit() attempting to access sockapi
+2024/02/22 15:16:46 [notice] 13600#20732: Access to sockapi succeded!
+2024/02/22 15:16:46 [notice] 13600#20732: using sockapi from "4;"
+2024/02/22 15:16:50 [notice] 4280#17340: signal process started (quit)
+2024/02/22 15:19:01 [notice] 7272#8588: signal process started (quit)
+2024/02/22 15:19:01 [error] 7272#8588: CreateFile() "D:\Paresh\Python\Ngnix/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2024/02/22 15:19:01 [emerg] 12412#3936: CreateDirectory() "/Nginx/srv/hls/" failed (3: The system cannot find the path specified)
+2024/02/22 15:19:07 [notice] 13780#17760: signal process started (quit)
+2024/02/22 15:19:07 [error] 13780#17760: CreateFile() "D:\Paresh\Python\Ngnix/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2024/02/22 15:19:07 [emerg] 9284#12760: CreateDirectory() "/Nginx/srv/hls/" failed (3: The system cannot find the path specified)
+2024/02/22 15:19:08 [notice] 5760#16928: signal process started (quit)
+2024/02/22 15:19:08 [error] 5760#16928: CreateFile() "D:\Paresh\Python\Ngnix/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2024/02/22 15:19:08 [emerg] 9172#21120: CreateDirectory() "/Nginx/srv/hls/" failed (3: The system cannot find the path specified)
+2024/02/22 15:19:10 [notice] 18616#2324: signal process started (quit)
+2024/02/22 15:19:10 [error] 18616#2324: CreateFile() "D:\Paresh\Python\Ngnix/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2024/02/22 15:19:53 [notice] 10948#8648: signal process started (quit)
+2024/02/22 15:19:53 [error] 10948#8648: CreateFile() "D:\Paresh\Python\Ngnix/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2024/02/22 15:19:53 [notice] 19472#5752: sockinit() attempting to access sockapi
+2024/02/22 15:19:53 [notice] 19472#5752: Access to sockapi succeded!
+2024/02/22 15:19:53 [notice] 19472#5752: using sockapi from "4;"
+2024/02/22 15:19:53 [notice] 1608#11468: sockinit() attempting to access sockapi
+2024/02/22 15:19:53 [notice] 1608#11468: Access to sockapi succeded!
+2024/02/22 15:19:53 [notice] 1608#11468: using sockapi from "4;"
+2024/02/22 15:39:24 [notice] 21500#20552: signal process started (quit)
+2024/02/22 15:40:24 [notice] 15672#2368: signal process started (quit)
+2024/02/22 15:40:42 [notice] 14788#1904: signal process started (quit)
+2024/02/22 15:40:42 [error] 14788#1904: OpenEvent("Global\ngx_quit_14428") failed (2: The system cannot find the file specified)
+2024/02/22 15:40:42 [notice] 2816#10660: sockinit() attempting to access sockapi
+2024/02/22 15:40:42 [notice] 2816#10660: Access to sockapi succeded!
+2024/02/22 15:40:42 [notice] 2816#10660: using sockapi from "4;"
+2024/02/22 15:40:42 [notice] 16304#15948: sockinit() attempting to access sockapi
+2024/02/22 15:40:42 [notice] 16304#15948: Access to sockapi succeded!
+2024/02/22 15:40:42 [notice] 16304#15948: using sockapi from "4;"
+2024/02/22 15:51:37 [notice] 16416#21280: signal process started (quit)
+2024/02/22 15:51:42 [notice] 17176#7944: signal process started (quit)
+2024/02/22 15:51:58 [notice] 17076#19720: signal process started (quit)
+2024/02/22 15:51:58 [error] 17076#19720: CreateFile() "D:\Paresh\Python\Ngnix/logs/nginx.pid" failed (2: The system cannot find the file specified)
+2024/02/22 15:51:58 [notice] 7356#16508: sockinit() attempting to access sockapi
+2024/02/22 15:51:58 [notice] 7356#16508: Access to sockapi succeded!
+2024/02/22 15:51:58 [notice] 7356#16508: using sockapi from "4;144;"
+2024/02/22 15:51:58 [notice] 14796#19744: sockinit() attempting to access sockapi
+2024/02/22 15:51:58 [notice] 14796#19744: Access to sockapi succeded!
+2024/02/22 15:51:58 [notice] 14796#19744: using sockapi from "4;8;"
+2024/02/22 15:52:10 [error] 7356#13416: *2 directory index of "D:/Paresh/Python/Ngnix/srv/" is forbidden, client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "localhost"
+2024/02/22 15:52:10 [error] 7356#13416: *2 CreateFile() "D:/Paresh/Python/Ngnix/srv/favicon.ico" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /favicon.ico HTTP/1.1", host: "localhost", referrer: "http://localhost/"
+2024/02/22 15:52:15 [error] 7356#13416: *2 directory index of "D:/Paresh/Python/Ngnix/srv/" is forbidden, client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "localhost"
+2024/02/22 15:52:21 [error] 7356#13416: *2 directory index of "D:/Paresh/Python/Ngnix/srv/" is forbidden, client: 127.0.0.1, server: , request: "GET / HTTP/1.1", host: "localhost"
+2024/02/22 15:52:32 [error] 7356#13416: *3 CreateFile() "D:/Paresh/Python/Ngnix/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/viewer.html"
+2024/02/22 15:52:47 [error] 7356#13416: *2 CreateFile() "D:/Paresh/Python/Ngnix/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/viewer.html"
+2024/02/22 15:52:49 [error] 7356#13416: *3 CreateFile() "D:/Paresh/Python/Ngnix/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/viewer.html"
+2024/02/22 15:52:49 [error] 7356#13416: *2 CreateFile() "D:/Paresh/Python/Ngnix/srv/hls/stream1.m3u8" failed (2: The system cannot find the file specified), client: 127.0.0.1, server: , request: "GET /hls/stream1.m3u8 HTTP/1.1", host: "localhost", referrer: "http://localhost/viewer.html"
